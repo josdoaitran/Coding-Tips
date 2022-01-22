@@ -14,5 +14,5 @@ Coding Tips Everythings includes:
 
 ## Editor tools and Tips.
 
-+ JetBrains (IntellJ, Pycharm, WebStorm, ...): https://github.com/josdoaitran/Coding-Tips/blob/main/JetbrainsTools
-+ Visual Code: 
++ JetBrains (IntellJ, Pycharm, WebStorm, ...): [Link](https://github.com/josdoaitran/Coding-Tips/blob/main/JetbrainsTools.md)
++ Visual Code: [Link](https://github.com/josdoaitran/Coding-Tips/blob/main/VisualCode.md)
