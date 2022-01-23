@@ -24,6 +24,7 @@ Coding Tips Everythings includes:
 - Java for Tester:
 - Python for Tester: https://github.com/josdoaitran/PythonForTester
 - Ruby for Tester:
+- Javascript for Tester: https://github.com/josdoaitran/JavaScriptForTester
 
 ## Mocking
 
