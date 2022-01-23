@@ -21,6 +21,10 @@ Coding Tips Everythings includes:
 
 ## Testing tools - Documents and References:
 
+- Java for Tester:
+- Python for Tester: https://github.com/josdoaitran/PythonForTester
+- Ruby for Tester: 
+
 
 ## Editor tools and Tips.
 
