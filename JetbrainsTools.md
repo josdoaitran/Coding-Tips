@@ -8,3 +8,4 @@
 
 -  Webstorm: https://www.jetbrains.com/webstorm/download/other.html
 -  IntelliJ IDEA: https://www.jetbrains.com/idea/download/other.html
+-  Pycharm: https://www.jetbrains.com/pycharm/download/other.html
